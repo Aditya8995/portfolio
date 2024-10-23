@@ -1,6 +1,6 @@
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import { FaFacebookF, FaInstagram, FaLinkedinIn, FaReact, FaGithub } from "react-icons/fa";
-import { SiTailwindcss, SiMysql, SiNodedotjs,SiMongodb,SiExpress } from "react-icons/si";
+import { FaLinkedinIn, FaReact, FaGithub } from "react-icons/fa";
+import { SiTailwindcss, SiNodedotjs,SiExpress } from "react-icons/si";
 import { FadeIn } from "./FadeIn";
 
 const LeftBanner = () => {
