@@ -18,11 +18,11 @@ const Projects = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
           <ProjectsCard
-            title="Crypto Website"
-            des=" Coin Ranking is a platform where you can discover and save favorite cryptocurrencies. Built with React JS for a seamless experience."
+            title="Youtube clone"
+            des=" The YouTube backend project is built with the MERN stack, providing robust functionality for video uploading, streaming, and user management."
             src={projectOne}
-            githubLink="https://github.com/tyagiharsh607/CoinRanking"
-            webisteLink="https://coin-ranking.netlify.app/"
+            githubLink="https://github.com/Aditya8995/youtube-clone"
+            webisteLink="https://frontend-playtube.vercel.app/"
           />
           <ProjectsCard
             title="Typingspeed-test"
@@ -39,24 +39,24 @@ const Projects = () => {
             webisteLink="https://recipe-app-ten-beta.vercel.app/"
           />
           <ProjectsCard
-            title="Gym Website"
-            des="Explore thousands of exercises, workouts, and fitness tips on our comprehensive gym website, designed to help you reach your fitness goals."
+            title="Movie-app"
+            des="The movie search web project is a React app with Tailwind CSS that lets users search and view details about movies."
             src={projectFour}
-            githubLink="https://github.com/tyagiharsh607/gym-app"
-            webisteLink="https://myfitnessgymm.netlify.app/"
+            githubLink="https://github.com/Aditya8995/movie-search-web-app"
+            webisteLink="https://movie-search-web-app-taupe.vercel.app/"
           />
           <ProjectsCard
-            title="Photo Gallery"
-            des="Discover a vast collection of images effortlessly with our intuitive image search engine, powered by JavaScript for seamless browsing."
+            title="Feedback-app"
+            des="The feedback app is a React application that enables users to submit and view feedback, featuring an interactive UI for easy user input and responsive design."
             src={projectFive}
-            githubLink="https://github.com/tyagiharsh607/Photon"
-            webisteLink="https://photon-image-search.netlify.app/"
+            githubLink="https://github.com/Aditya8995/feedback-app"
+            webisteLink=""
           />
           <ProjectsCard
             title="Budget App"
             des="Easily manage your finances with our React-powered budget app, ensuring every expense is tracked for better financial management."
             src={projectSix}
-            githubLink="https://github.com/tyagiharsh607/budget-app"
+            githubLink=""
             webisteLink="https://budget-savvy.netlify.app/"
           />
         </div>
